@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mymod:tntsnow_item"
+    },
+    {
+      "item": "mymod:tntsnow_item"
+    },
+    {
+      "item": "mymod:tntsnow_item"
+    },
+    {
+      "item": "mymod:tntsnow_item"
+    },
+    {
+      "item": "mymod:tntsnow_item"
+    },
+    {
+      "item": "mymod:tntsnow_item"
+    },
+    {
+      "item": "mymod:tntsnow_item"
+    },
+    {
+      "item": "mymod:tntsnow_item"
+    },
+    {
+      "item": "mymod:tntsnow_item"
+    }
+  ],
+  "result": {
+    "item": "mymod:manytntsnow",
+    "count": 4
+  }
+}
